@@ -1,0 +1,12 @@
+
+body{
+  background-color: white;   
+}
+/* body{
+  background-color: #e0e0e0;   
+}  */
+.centered{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
